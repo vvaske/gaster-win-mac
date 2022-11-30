@@ -4,7 +4,7 @@ Windows + MacOs Checkm8 experiment to understand AP/SEP internals.
 # How to use?
 
 # MacOs:
-git clone https://github.com/vvaske/gaster.git --recursive && cd gaster
+git clone https://github.com/vvaske/gaster-win-mac.git --recursive && cd gaster
 
 make 
 
